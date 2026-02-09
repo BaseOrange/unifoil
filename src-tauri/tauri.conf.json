@@ -1,6 +1,6 @@
 {
   "$schema": "https://schema.tauri.app/config/2",
-  "productName": "unifoil",
+  "productName": "Unifoil",
   "version": "0.1.0",
   "identifier": "com.dcz.unifoil",
   "build": {
@@ -12,9 +12,10 @@
   "app": {
     "windows": [
       {
-        "title": "unifoil",
+        "title": "Unifoil",
         "width": 800,
-        "height": 600
+        "height": 600,
+        "transparent": true
       }
     ],
     "security": {
